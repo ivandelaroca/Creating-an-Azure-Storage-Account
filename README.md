@@ -11,8 +11,8 @@ Project consists of a simple step-by-step walkthrough that guides the user throu
 <h2>Program Walkthrough:</h2>
 
 <p align="center">
-Enter "Resource Groups" on Microsoft Azure Homepage: <br/>
-<img src="https://imgur.com/nCuwiRx.png" height="80%" width="80%" alt="Azure Storage Account Steps"/>
+Enter "Storage Accounts" on Microsoft Azure Homepage: <br/>
+<img src="https://imgur.com/bpTZCDQ.png" height="80%" width="80%" alt="Azure Storage Account Steps"/>
 <br />
 <br />
 Select "Create Storage Account":  <br/>
